@@ -1,0 +1,18 @@
+*{
+    margin:0%
+}
+nav{
+    background-color: rgb(95, 241, 178);
+height: 30px;
+   
+   
+}
+a{
+    margin-top: 30px;
+    padding: 20px;
+    margin-left: 40px;
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
